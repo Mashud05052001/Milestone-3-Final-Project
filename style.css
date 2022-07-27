@@ -1,8 +1,21 @@
 :root {
-    --primary-color: rgb(40, 181, 184);
+    --primary-color: rgb(179, 45, 219);
 }
 
 nav>form {
     top: 30px;
     right: 80px;
+}
+
+.car-ou-sel h1 {
+    font-size: 4.5rem;
+}
+
+
+.started-button {
+    width: 180px;
+}
+
+.common-color {
+    color: var(--primary-color);
 }
