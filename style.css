@@ -19,3 +19,18 @@ nav>form {
 .common-color {
     color: var(--primary-color);
 }
+
+.fa-quote-right {
+    font-size: 3.5em;
+    color: rgb(221, 221, 221);
+}
+
+.fa-star {
+    color: goldenrod;
+    margin-right: -3px;
+}
+
+#star {
+    padding-right: 10%;
+    padding-top: 1%;
+}
