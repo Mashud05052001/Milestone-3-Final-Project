@@ -35,6 +35,10 @@ nav>form {
     padding-top: 2.5%;
 }
 
+.modal input:focus {
+    outline: none;
+}
+
 @media only screen and (min-width:100px) and (max-width:1000px) {
     #trustedt-companies {
         display: none;
