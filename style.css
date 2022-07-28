@@ -31,6 +31,12 @@ nav>form {
 }
 
 #star {
-    padding-right: 10%;
-    padding-top: 1%;
+
+    padding-top: 2.5%;
+}
+
+@media only screen and (min-width:100px) and (max-width:1000px) {
+    #trustedt-companies {
+        display: none;
+    }
 }
